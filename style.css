@@ -1,0 +1,22 @@
+/*
+Theme Name: My First Child Theme
+Theme URI: http://mikelittle.org/
+Description: A demonstration child theme of Twentysixteen
+Author: Mike Little
+Author URI: https://mikelittle.org/
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Template: twentysixteen
+*/
+@media screen and (min-width: 61.5625em)
+.site-header {
+  padding: 0.625em 7.6923%;
+}
+@media screen and (min-width: 44.375em)
+.site-header {
+  padding: 0.625em 7.6923%;
+}
+.site-header {
+  padding: 0.625em 7.6923%;
+}
